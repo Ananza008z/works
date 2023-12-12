@@ -1,0 +1,12 @@
+column_9sub: ['D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L']
+column_5sub: ['D', 'E', 'F', 'G', 'H']
+first_row_5: 3
+first_row_9: 3
+max_9: 320
+max_5: 200
+full_row9: ['D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N']
+full_row5: ['D', 'E', 'F', 'G', 'H', 'I', 'J']
+name9: C
+name5: C
+id9: B
+id5: B
